@@ -44,7 +44,7 @@
 
 ## Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pr0fess0r99/RENAME-BOT-V3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhimohannew/RENAME-BOT-V3)
 
 # How To Use Admin Command 
 
